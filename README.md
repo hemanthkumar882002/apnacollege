@@ -1,3 +1,5 @@
 # apnacollege
 this is my first git repository
-author-hemanth kumar r
+author-hemanth kumar r(sanju)
+
+
